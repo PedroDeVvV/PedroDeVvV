@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://pedrodevvv.github.io/Portfolio/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroDeVvV&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroDeVvV&layout=compact&langs_count=7&theme=transparent"/>
 </div>
 <div style="display: inline_block"><br>
