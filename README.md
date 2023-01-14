@@ -5,7 +5,8 @@
 
 <div align="center">
   <a href="https://pedrodevvv.github.io/Portfolio/">
- [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=kpedrodevvv&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroDeVvV&layout=compact&langs_count=7&theme=transparent"/>
 </div>
