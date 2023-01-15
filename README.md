@@ -4,7 +4,7 @@
 - 🌱 I have focused on the front-end, specifically JavaScript ...
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroDeVvV&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodevvv&layout=compact)](https://github-readme-stats.vercel.app/api?username=PedroDeVvV&show_icons=true)](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical))"/>
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroDeVvV&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodevvv&layout=compact)](https://github-readme-stats.vercel.app/api?username=PedroDeVvV&show_icons=true)](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical))"/> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroDeVvV&layout=compact&langs_count=7&theme=transparent"/>
 </div>
 <div style="display: inline_block"><br>
